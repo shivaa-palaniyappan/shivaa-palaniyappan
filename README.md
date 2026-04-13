@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 🎓 B.E Computer Science (IoT) @ Saveetha Engineering College — CGPA 7.9
+- 🎓 B.E Computer Science (IoT) @ Saveetha Engineering College — CGPA 7.7
 - 🔧 I specialise in **Flask REST APIs**, **React frontends**, and **MongoDB** database design
 - 🤖 Built production-grade **NLP pipelines** using Hugging Face Transformers
 - 🏆 Hackathon builder — shipped a full-stack app end-to-end in 24 hours
