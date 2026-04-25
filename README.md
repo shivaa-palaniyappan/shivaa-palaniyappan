@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shivaa Palaniyappan
+# Hey, I'm Shivaa Palaniyappan 👋
 
 **Full-Stack Software Engineer** · React · Next.js · TypeScript · Flask · REST APIs
 
