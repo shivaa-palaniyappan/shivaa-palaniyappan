@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-shivaapalaniyappan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivaapalaniyappan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/shivaa-palaniyappan-3545b6297/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://shivaapalaniyappan-portfolio.netlify.app/)
 
 </div>
 
@@ -97,3 +98,4 @@ I'm actively looking for **Software Engineering opportunities** — open to full
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivaapalaniyappan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/shivaa-palaniyappan-3545b6297/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO_URL](https://shivaapalaniyappan-portfolio.netlify.app/))
